@@ -1,6 +1,6 @@
 PUBLIC ARCHIVE ASP.NET
 
-Upto 30Pages(Data)
+Upto 100 Pages(Data)
 
 1.IdentityServer/IdentityServer4
 
